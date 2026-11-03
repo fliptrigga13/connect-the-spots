@@ -19,6 +19,6 @@ Also on the record, for Meta: I am the original creator of Sentinel-slime. Meta 
 
 Forged and open sourced by **Lauren Christian Flipo**, the original creator. Can't steal a mint. It gives itself away, with my name on it.
 
-The full film, carrying my own voice and my freestyle, joins this repo when it is cooked.
+The full film is here: film/connect-the-spots-film.mp4 — my lyrics over the visuals, 7 minutes 46 seconds. The reply to Meta and Sam and the world.
 
 MIT License © 2026 Lauren Christian Flipo
