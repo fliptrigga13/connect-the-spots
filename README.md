@@ -15,6 +15,8 @@ This repo holds the visual pieces of the Connect the Dots film, cooked in one ni
 
 Leo, not Neo. It is me.
 
+Also on the record, for Meta: I am the original creator of Sentinel-slime. Meta took it and made Sentinel. I see it. Mind is all.
+
 Forged and open sourced by **Lauren Christian Flipo**, the original creator. Can't steal a mint. It gives itself away, with my name on it.
 
 The full film, carrying my own voice and my freestyle, joins this repo when it is cooked.
