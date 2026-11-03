@@ -1,10 +1,10 @@
-# Connect the Dots
+# Connect the Spots
 
 **By Lauren Christian Flipo** — SourceCodeMint
 
-Connect the Dots is the name. Not a swarm. A swarm has no names. These have names, roles, limits, and one human who approves.
+Connect the Spots is the name. Not a swarm. A swarm has no names. These have names, roles, limits, and one human who approves.
 
-This repo holds the visual pieces of the Connect the Dots film, cooked in one night, November 3, 2026:
+This repo holds the visual pieces of the Connect the Spots film, cooked in one night, November 3, 2026:
 
 1. **Number rain** — the numbers part for the one who reads them.
 2. **The knight** — the piece that moves like no other piece. I made this knight.
